@@ -1,10 +1,9 @@
-# Cursos de Programación
+# Curso de Programación
 ## Desde cero en español gratis y se quedan grabados.
 
 [Canal de Twitch](https://www.twitch.tvbrujeriatech)
 ## Horarios
-Lunes - Miercoles - Viernes 8:00 PM  Perú 🇵🇪 :white_flag:
-:peru:
+Lunes - Miercoles - Viernes a las 8:00 Pm Perú 🇵🇪 
 ## ¿Qué es lo que veremos?
 En el curso de programación vamos a ver las siguienes cosas:
 ### Nivel 1 - Intro a la programación
